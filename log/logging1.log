@@ -1,0 +1,6 @@
+2021-07-10 20:18:39,835 [main] INFO Log4jExample.LoginTest - OPENING Chrome Browser
+2021-07-10 20:18:42,646 [main] INFO Log4jExample.LoginTest - Navigating to www.echotrak.com
+2021-07-10 20:18:42,732 [main] INFO Log4jExample.LoginTest - Entering value in Username : Archana
+2021-07-10 20:18:42,806 [main] INFO Log4jExample.LoginTest - Entering value in Password : apurva
+2021-07-10 20:18:45,449 [main] INFO Log4jExample.LoginTest - Clicking a SUBMIT button
+2021-07-10 20:18:46,548 [main] INFO Log4jExample.LoginTest - CLOSING Browser
