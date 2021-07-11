@@ -1,6 +1,6 @@
-2021-07-10 20:18:39 INFO  LoginTest:39 - OPENING Chrome Browser
-2021-07-10 20:18:42 INFO  LoginTest:46 - Navigating to www.echotrak.com
-2021-07-10 20:18:42 INFO  LoginTest:56 - Entering value in Username : Archana
-2021-07-10 20:18:42 INFO  LoginTest:61 - Entering value in Password : apurva
-2021-07-10 20:18:45 INFO  LoginTest:66 - Clicking a SUBMIT button
-2021-07-10 20:18:46 INFO  LoginTest:76 - CLOSING Browser
+2021-07-11 08:33:33 INFO  LoginTest:39 - OPENING Chrome Browser
+2021-07-11 08:33:37 INFO  LoginTest:46 - Navigating to www.echotrak.com
+2021-07-11 08:33:37 INFO  LoginTest:56 - Entering value in Username : Archana
+2021-07-11 08:33:37 INFO  LoginTest:61 - Entering value in Password : apurva
+2021-07-11 08:33:40 INFO  LoginTest:66 - Clicking a SUBMIT button
+2021-07-11 08:33:41 INFO  LoginTest:76 - CLOSING Browser

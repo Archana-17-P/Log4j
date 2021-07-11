@@ -1,5 +1,15 @@
 package Log4jExample;
-
+/*
+ * 1)LoginTest class
+ * 
+ * 2)log4j.properties is saved under a path : src/main/resources
+ * 
+ * Log4j creates 3 files that are stored under a folder log which is located in a same project GenerateLogs.
+ * The three files are :  logging.log
+ * 						  logging1.log
+ * 						  application.log
+ * 
+ */
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.BasicConfigurator;
@@ -42,7 +52,7 @@ public class LoginTest {
 			driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 			driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 			
-			driver.get("http://www.echotrak.com");
+			driver.get("https://www.echotrak.com");
 			logger.info("Navigating to www.echotrak.com");  
 		  
 	  }
