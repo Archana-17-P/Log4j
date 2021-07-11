@@ -1,6 +1,7 @@
-2021-07-11 08:33:33 INFO  LoginTest:39 - OPENING Chrome Browser
-2021-07-11 08:33:37 INFO  LoginTest:46 - Navigating to www.echotrak.com
-2021-07-11 08:33:37 INFO  LoginTest:56 - Entering value in Username : Archana
-2021-07-11 08:33:37 INFO  LoginTest:61 - Entering value in Password : apurva
-2021-07-11 08:33:40 INFO  LoginTest:66 - Clicking a SUBMIT button
-2021-07-11 08:33:41 INFO  LoginTest:76 - CLOSING Browser
+2021-07-11 09:30:27 INFO  LoginTest:49 - OPENING Chrome Browser
+2021-07-11 09:30:32 INFO  LoginTest:56 - Navigating to www.echotrak.com
+2021-07-11 09:30:32 INFO  LoginTest:66 - Entering value in Username : Archana
+2021-07-11 09:30:32 INFO  LoginTest:71 - Entering value in Password : apurva
+2021-07-11 09:30:35 INFO  LoginTest:76 - Clicking a SUBMIT button
+2021-07-11 09:30:36 INFO  LoginTest:81 - 'Invalid Username/Password' message after clicking SUBMIT button
+2021-07-11 09:30:36 INFO  LoginTest:89 - CLOSING Browser

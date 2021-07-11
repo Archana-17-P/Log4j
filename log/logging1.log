@@ -1,6 +1,7 @@
-2021-07-11 08:33:33,209 [main] INFO Log4jExample.LoginTest - OPENING Chrome Browser
-2021-07-11 08:33:37,501 [main] INFO Log4jExample.LoginTest - Navigating to www.echotrak.com
-2021-07-11 08:33:37,684 [main] INFO Log4jExample.LoginTest - Entering value in Username : Archana
-2021-07-11 08:33:37,853 [main] INFO Log4jExample.LoginTest - Entering value in Password : apurva
-2021-07-11 08:33:40,465 [main] INFO Log4jExample.LoginTest - Clicking a SUBMIT button
-2021-07-11 08:33:41,592 [main] INFO Log4jExample.LoginTest - CLOSING Browser
+2021-07-11 09:30:27,722 [main] INFO Log4jExample.LoginTest - OPENING Chrome Browser
+2021-07-11 09:30:32,382 [main] INFO Log4jExample.LoginTest - Navigating to www.echotrak.com
+2021-07-11 09:30:32,534 [main] INFO Log4jExample.LoginTest - Entering value in Username : Archana
+2021-07-11 09:30:32,751 [main] INFO Log4jExample.LoginTest - Entering value in Password : apurva
+2021-07-11 09:30:35,348 [main] INFO Log4jExample.LoginTest - Clicking a SUBMIT button
+2021-07-11 09:30:36,422 [main] INFO Log4jExample.LoginTest - 'Invalid Username/Password' message after clicking SUBMIT button
+2021-07-11 09:30:36,618 [main] INFO Log4jExample.LoginTest - CLOSING Browser

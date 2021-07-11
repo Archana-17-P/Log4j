@@ -76,7 +76,10 @@ public class LoginTest {
 		  logger.info("Clicking a SUBMIT button");
 		  Thread.sleep(1000);
 		  
-		  
+		  WebElement mes = driver.findElement(By.xpath("//*[@id='lblMsg']"));
+		  String message = mes.getText();
+		  logger.info("\'Invalid Username/Password\' message after clicking SUBMIT button");
+		  //System.out.println("\nInvalid User : "+message);
 
 	  }
 
